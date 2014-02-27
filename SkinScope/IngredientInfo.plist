@@ -1,0 +1,2710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ingredients</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Acetone</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>5</integer>
+			<key>cat</key>
+			<string>Solvents</string>
+			<key>desc</key>
+			<string>Strong solvent that is used in Nail Polish removers.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Acetylated Lanolin</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Emollient derived from lanolin.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Acetylated Lanolin Alcohol</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>An ester of lanolin alcohol uses as an emollient and occlusive agent. An ester is a compound formed from an alcohol and an acid with the elimination of water, and are common among cosmetic ingredients. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Algae Extract</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>4</integer>
+			<key>cat</key>
+			<string>Emollients, Thickeners/Emulsifiers, Plant Extracts, Antioxidants</string>
+			<key>desc</key>
+			<string>Algae are very simple, chlorophyll-containing organisms in a family that includes more than 20,000 different known species. In cosmetics, algae act as thickening agents, water-binding agents, and antioxidants. Some algae are also potential skin irritants.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Algin</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>4</integer>
+			<key>cat</key>
+			<string>Antioxidants, Plant Extracts, Thickeners/Emulsifiers, Emollients</string>
+			<key>desc</key>
+			<string>Brown algae. Algae are very simple, chlorophyll-containing organisms in a family that includes more than 20,000 different known species. In cosmetics, algae act as thickening agents, water-binding agents, and antioxidants. Some algae are also potential skin irritants.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Allantoin</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Anti-Irritants</string>
+			<key>desc</key>
+			<string>By-product of uric acid extracted from urea and considered an effective anti-irritant.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Almond Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Non-volatile oil extracted from the seeds of almonds and used as an emollient. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aloe Vera Gel</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Anti-Irritants, Plant Extracts</string>
+			<key>desc</key>
+			<string>Aloe serves as a water-binding agent for skin due to its polysaccharide (complex carbohydrate) and sterol content. (An example of a sterol that’s beneficial for skin is cholesterol) Although research has shown aloe also has anti-inflammatory, antioxidant, and antibacterial qualities, no study has proven it to be superior to other ingredients with similar properties, including vitamin C, green tea, pomegranate, and many other antioxidants.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aminomethylpropionate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Anhydrous Lanolin</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apricot Kernel Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Emollients</string>
+			<key>desc</key>
+			<string>Emollient plant oil pressed from the seeds of apricots, and similar to other nonfragrant plant oils.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arachidic Acid</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Derived from peanut oil and used as an emollient and thickening agent in cosmetics. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ascorbic Acid</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Vitamins, Antioxidants</string>
+			<key>desc</key>
+			<string>Form of vitamin C that has antioxidant properties.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ascorbyl Palmitate</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Vitamins, Antioxidants</string>
+			<key>desc</key>
+			<string>Stable and nonacidic form of vitamin C that is effective as an antioxidant. Ascorbyl palmitate is particulatly effective at reducing free radicals generated from UVB rays and, due to its palmitate portion, is also a moisturizing form of vitamin C</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Avocado Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients, Antioxidants</string>
+			<key>desc</key>
+			<string>Emollient oil similar to other nonfragrant plant oils. It has antioxidant properties.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Azulene</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Anti-Irritants, Plant Extracts, Antioxidants</string>
+			<key>desc</key>
+			<string>Chamomile extract used primarily as a coloring agent in cosmetics. It can have antioxidant and anti-inflammatory properties. However, there is research showing that azulene can cause cellular mutation when exposed to UVA light so it best to not use this in leave-on products.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BHA</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Anti-Irritants, Exfoliants, Antibacterial, Anti-Acne</string>
+			<key>desc</key>
+			<string>Referred to as beta hydroxy acid (BHA), it is a multifunctional ingredient that addresses many of the systemic causes of blemishes. BHA has the ability to penetrate into the pore (AHAs do not), and thus can exfoliate inside the pore as well as on the surface of the skin, which makes it effective for reducing blemishes, including blackheads and whiteheads.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beeswax</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Emollients</string>
+			<key>desc</key>
+			<string>Substance made by bees to build the walls of their honeycomb. It is a thickening agent that has some emollient properties. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Behenic Acid</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Surfactants</string>
+			<key>desc</key>
+			<string>Fatty acid used as a thickening agent and surfactant.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Behenyl Triglyceride</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bentonite</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Absorbent</string>
+			<key>desc</key>
+			<string>Type of clay that is used as an absorbent in cosmetics. It can be drying for skin, though its absorbent properties are helpful for those with oily skin. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Benzaldehyde</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Solvents</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Benzoic Acid</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Preservatives</string>
+			<key>desc</key>
+			<string>Preservative used in skin-care products; it is considered less irritating than some other forms of preservatives. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beta Carotene</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment, Antioxidant</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Black Walnut Extract</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bromelain</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Exfoliant</string>
+			<key>desc</key>
+			<string>Bromelain is a crude extract from pineapple. The research about bromelain is related to oral consumption and animal studies. Theoretically, bromelain breaks down the connecting structure that holds surface skin cells together, which causes exfoliation but can also cause irritation. However, exactly how much bromelain is needed (the amount used in skin-care products is typically less than 1%), whether it is stable as used in cosmetics, and in what bases and pH it works best have not been established. There is little to no research demonstrating how bromelain reacts on skin.
+</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bubussa Oil</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Butyl Stearate</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Fragrance, Solvent, Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Butylene Glycol</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Slip Agents</string>
+			<key>desc</key>
+			<string>Commonly used slip agent that has multiple functions in cosmetics, depending on the formula. Similar to propylene glycol but with a lighter texture.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carmine</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>Natural red color that comes from the dried female cochineal beetle.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cajeput Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>4</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Irritants</string>
+			<key>desc</key>
+			<string>There is no research showing that this oil, which is derived from a plant in the same family as the plant that is the source of tea tree oil, has any antibacterial properties. It may cause skin irritation.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Calendula</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Antioxidants, Plant Extracts, Antibacterial, Anti-Acne, Anti-Irritants</string>
+			<key>desc</key>
+			<string>Extract derived from the plant commonly known as pot marigold, there is little research showing that it has any effect on skin, though it may have antibacterial, anti-inflammatory, and antioxidant properties. Note: If you have ragweed (or similar plant) allergies, topical application of calendula is not recommended because of the risk of an eczematous allergic reaction.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Camphor</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Irritants</string>
+			<key>desc</key>
+			<string>Aromatic substance obtained from the wood of a tree common to Southeast Asia, Cinnamomum camphora, or manufactured synthetically. When applied to the skin camphor produces a cooling effect and dilates blood vessels, which can cause skin irritation and dermatitis with repeated use.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Candelilla Wax</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Emollients, Plant Extracts</string>
+			<key>desc</key>
+			<string>Extract derived from candelilla plants; used as a thickening agent and emollient to give products such as lipsticks or stick foundations their form. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Capric Acid</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caprylic Acid</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carbomer</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Group of thickening agents used primarily to create gel-like formulations.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carbomer 940</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Group of thickening agents used primarily to create gel-like formulations.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carboxymethylcellulose</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Binding Agent, Stabilizer, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carnuba Wax</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carotene</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Antioxidant</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carrageenan</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Seaweed gum used in cosmetics as a thickening agent with water-binding properties. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Castor Oil</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Emollients</string>
+			<key>desc</key>
+			<string>Vegetable oil derived from the castor bean. It is used in cosmetics as an emollient, though its unique property is that when dry it forms a solid film that can have water-binding properties. It is rarely associated with skin irritation or allergic reactions, but can have a slightly sticky feel on skin. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ceresin Wax</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Derived from clay, ceresin is a waxy ingredient used as a thickening agent in cosmetics. It can be sensitizing for some skin types.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cetearyl Alcohol</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Emollients, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Fatty alcohol used as an emollient, emulsifier, thickener, and carrying agent for other ingredients. Can be derived naturally, as in coconut fatty alcohol, or synthetically. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cetearyl Alcohol + Ceteareth 20</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cetyl Alcohol</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Emollients, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Fatty alcohol used as an emollient, emulsifier, thickener, and carrying agent for other ingredients. Can be derived naturally, as in coconut fatty alcohol, or synthetically. It is not related to SD alcohol or ethyl alcohol. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chamomile</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Antibacterial, Anti-Acne, Antioxidants, Plant Extracts</string>
+			<key>desc</key>
+			<string>Chamomile has moderate antioxidant and antimicrobial activities, and significant anti-platelet activity in vitro. Animal model studies indicate it may have potent anti-inflammatory action, some antimutagenic and cholesterol-lowering activities, as well as antispasmotic and anxiolytic effects. However, human studies are limited, and clinical trials examining the purported sedative properties of chamomile tea are absent. Adverse reactions to chamomile, consumed as a tisane or applied topically, have been reported among those with allergies to other plants in the daisy family.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chamomile extract</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Antibacterial, Anti-Acne, Antioxidants, Plant Extracts</string>
+			<key>desc</key>
+			<string>Chamomile has moderate antioxidant and antimicrobial activities, and significant anti-platelet activity in vitro. Animal model studies indicate it may have potent anti-inflammatory action, some antimutagenic and cholesterol-lowering activities, as well as antispasmotic and anxiolytic effects. However, human studies are limited, and clinical trials examining the purported sedative properties of chamomile tea are absent. Adverse reactions to chamomile, consumed as a tisane or applied topically, have been reported among those with allergies to other plants in the daisy family.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chaulomoogra Oil</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Antibacterial, Anti-Acne, Plant Extracts</string>
+			<key>New item</key>
+			<string>Once the treatment for leprosy worldwide due to its antimicrobial properties. It can be a skin irritant.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cholesterol</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Cholesterol in cosmetics can help maintain the skin’s normal function. It is also a stabilizer, emollient, and water-binding agent</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Choleth 24</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chromium Hydroxide</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cocoa Butter</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Emollients</string>
+			<key>desc</key>
+			<string>Oil extracted from cocoa beans, used as an emollient and with properties similar to those of other nonfragrant plant oils. Cocoa butter is a rich source of antioxidant polyphenols; in vitro research has shown it helps improve skin elasticity and promote healthy collagen production. Contrary to popular belief, topical application of cocoa butter during pregnancy does not prevent or reduce the number of stretch marks.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coconut Butter</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients, Plant Extracts</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coconut Oil</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Emollients, Plant Extracts</string>
+			<key>desc</key>
+			<string> Non-volatile plant kernel oil that has emollient properties for skin. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cold Pressed Aloe Vera</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Anti-Irritants, Plant Extracts</string>
+			<key>desc</key>
+			<string>In pure form, aloe vera’s benefits on skin are probably its lack of occlusion and the refreshing sensation it provides. Aloe serves as a water-binding agent for skin due to its polysaccharide (complex carbohydrate) and sterol content. (An example of a sterol that’s beneficial for skin is cholesterol) Although research has shown aloe also has anti-inflammatory, antioxidant, and antibacterial qualities, no study has proven it to be superior to other ingredients with similar properties, including vitamin C, green tea, pomegranate, and many other antioxidants.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Colloidal Sulfur</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>4</integer>
+			<key>cat</key>
+			<string>Antimicrobial</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Corn Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Emollients</string>
+			<key>desc</key>
+			<string>Emollient oil with properties similar to those of other nonfragrant plant oils.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cotton Awws Oil</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cotton Seed Oil</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Crisco</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cyclomethicone</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Slip Agents, Emollients</string>
+			<key>desc</key>
+			<string>Silicone with a drier finish than dimethicone.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 17</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 19</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 21</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 3</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 30</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 33</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 36</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 4</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 6</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 7</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D &amp; C Red # 9</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D&amp;C Red #27</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D&amp;C Red #40</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>According to the FDA, D&amp;C is an identification that indicates a coloring agent has been approved as safe in drug and cosmetics products, but it does not apply to food.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Decyl Oleate</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>A skin-conditioning agent derived from the esters of decyl alcohol and oleic acid.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deionized Water</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Miscellaneous</string>
+			<key>desc</key>
+			<string>Filtered water used in cosmetics. All water used in cosmetic formulations goes through this process to remove components that could interfere with a product’s stability and performance. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diethylene Glycol Monomethyl Ether</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Solvent, Surfactant</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diisopropyl Adipate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Used as a film-forming agent, emollient, and skin-conditioning agent. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dimethicone</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Silicones, Slip Agents, Emollients</string>
+			<key>desc</key>
+			<string>The unique fluid properties of silicone give it a great deal of slip, and in its various forms it can feel like silk on the skin, impart emolliency, and be a water-binding agent that holds up well, even when skin becomes wet. There are numerous forms of silicones used in cosmetic products. Claims that silicones cause or worsen acne have not been substantiated in published research, nor have reports that silicones are irritating or &quot;suffocate&quot; skin. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dioctyl Sodium Sulfosuccinate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Surfactant</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dioctyl Succinate</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Solvent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Disodium Monooleamido PEG 2-Sulfosuccinate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Emulsifying Wax NF</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ethylparaben</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Preservatives</string>
+			<key>desc</key>
+			<string>Among the most widely used group of preservatives in cosmetics. It is estimated that more than 70% of all cosmetic products contain some form of paraben. Parabens are believed to cause less irritation than some preservatives and offer broad antifungal and good antibacterial activity. Parabens have become a stigmatized group of preservatives due to their alleged relation to breast cancer. The potential link between paragons and cancer has been debunked by the FDA, Cancer Institute, and American Cancer Society.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ethoxylated Lanolin</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Surfactant, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ethyl Ether</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Solvent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ethylene Glycol Monomethyl Ether</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ethylene Glycol Monostearate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ethylhexyl Palmitate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>A mixture of a fatty alcohol and palmitic acid that functions as an emollient.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Evening Primrose Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Emollients, Plant Extracts</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Flowers of Sulfur</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Glycerin</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Repairing</string>
+			<key>desc</key>
+			<string>Also called glycerol or glycerine; it is present in all natural lipids (fats), whether animal or vegetable. It can be derived from natural substances by hydrolysis of fats and by fermentation of sugars. It can also be synthetically manufactured. Whether natural or synthetic, glycerin is a humectant and extremely hygroscopic, meaning it readily absorbs water from other sources. So, in part, glycerin works because of its ability to attract water from the environment and from the lower layers of skin (dermis) increasing the amount of water in the surface layers of skin. Another aspect of glycerin’s benefit is that it is a skin-identical ingredient, meaning it is a substance found naturally in skin. In that respect it is one of the many substances in skin that help maintain the outer barrier and prevent dryness or scaling.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Glyceryl Stearate</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Emollients</string>
+			<key>desc</key>
+			<string>Used as an emollient and thickening agent in cosmetics.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Glyceryl Stearate SE</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Emollients</string>
+			<key>desc</key>
+			<string>Widely used ingredient that is a self-emulsifying (that’s what the “SE” stands for) form of glyceryl stearate.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Glyceryl Tricapylo/Caprate</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Glyceryl-3-Diisostearate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hexadecyl Alcohol</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Emollients, Surfactant, Stabilizer, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hexylene Glycol</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Slip Agents</string>
+			<key>desc</key>
+			<string>Along with other glycols and glycerol, this is a humectant or humidifying and delivery ingredient used in cosmetics.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hydantoin</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Preservatives</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hydrogenated Castor Oil</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Moisturizers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hydrogenated Vegetable Oil</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hydrolyzed Animal Protein</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hydroxypropylcellulose </string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Stabilizer, Binding Agent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Iron Oxide</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>Compounds of iron that are used as colorings in some cosmetics. They also are used as a metal polish called jewelers&apos; rouge, and are well-known in their crude form as rust.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isocetyl Stearate</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Solvent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isodecyl Oleate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Solvent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isopropyl Alcohol</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>4</integer>
+			<key>cat</key>
+			<string>Irritants</string>
+			<key>desc</key>
+			<string>The alcohols to be concerned about in skin-care products are ethanol, denatured alcohol, ethyl alcohol, methanol, benzyl alcohol, isopropyl alcohol, and SD alcohol, which can be extremely drying and irritating to skin, as well as capable of generating free radical damage and disrupting skin&apos;s protective barrier. There is actually a significant amount of research showing alcohol causes free-radical damage in skin even at low levels. When these ingredients are at the top of an ingredient list it is problematic for all skin types; when they are at the end of an ingredient list, there isn&apos;t enough concentration present to be considered a problem for skin.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isopropyl Isosterate</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Solvent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isopropyl Myristate</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Emollients, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Used in cosmetics as a thickening agent and emollient. As is true for any emollient or thickening agents, it can potentially clog pores, depending on the amount in the product and your skin’s response.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isopropyl Palmitate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Emollients, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Used in cosmetics as a thickening agent and emollient. As is true for any emollient or thickening agents, it can potentially clog pores, depending on the amount in the product and your skin’s response.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isostearyl Isostearate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isostearyl Neopentanoate</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Solvent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jojoba Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Emollients, Plant Extracts, Repairing</string>
+			<key>desc</key>
+			<string>Emollient oil similar to other nonfragrant plant oils.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kaolin</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Absorbent</string>
+			<key>desc</key>
+			<string>Naturally occurring clay mineral (silicate of aluminum) that is used in cosmetics for its absorbent properties.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lanolin Alcohol</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Repairing, Emollients</string>
+			<key>desc</key>
+			<string>Emollient derived from lanolin.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lanolin Oil</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients, Solvent, Binding Agent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lanolin Wax</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Emollients, Binding Agent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Laureth 23</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Surfactants, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Derived from lauryl alcohol and used either as a surfactant or emulsifier (or, in many cases, as both).</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Laureth 4</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>4</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Surfactants</string>
+			<key>desc</key>
+			<string>Derived from lauryl alcohol and used either as a surfactant or emulsifier (or, in many cases, as both).</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lauric Acid</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lithium Stearate</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Binding Agent, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magneseium Aluminum Silicate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Powdery, dry-feeling, white solid that is used as a thickening agent and powder in cosmetics.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magnesium Stearate</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Used as a thickening agent in cosmetics.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Menthyl Anthranilate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Sunscreen Actives</string>
+			<key>desc</key>
+			<string>Also known as meradimate, this is a synthetic sunscreen active is a partially effective UVA sunscreen, but because it only protects up to 336 nanometers, it does not make the grade for providing sufficient UVA protection on its own.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Methyl Paraben</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Preservatives</string>
+			<key>desc</key>
+			<string>Among the most widely used group of preservatives in cosmetics. It is estimated that more than 70% of all cosmetic products contain some form of paraben. Parabens are believed to cause less irritation than some preservatives and offer broad antifungal and good antibacterial activity. Parabens have become a stigmatized group of preservatives due to their alleged relation to breast cancer. The potential link between paragons and cancer has been debunked by the FDA, Cancer Institute, and American Cancer Society.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mineral Oil</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Clear, odorless oil derived from petroleum that is widely used in cosmetics because it rarely causes allergic reactions and it cannot become a solid and clog pores. Despite mineral oil’s association with petroleum and the hype that it is bad for or ages skin, keep in mind that petroleum is a natural ingredient derived from the earth and that once it becomes mineral oil USP, it has no resemblance to the original petroleum. Cosmetics-grade mineral oil and petrolatum are considered the safest, most nonirritating moisturizing ingredients ever found. Mineral oil is not an ingredient to avoid unless you have oily skin, in which case the somewhat greasy texture of mineral oil won&apos;t feel the best.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mink Oil</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Myristic Acid</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Surfactants</string>
+			<key>desc</key>
+			<string>Detergent cleansing agent that also creates foam and can be drying.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Myristyl Lactate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Solvent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Myristyl Myristate</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Emollients, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string> Used in cosmetics as a thickening agent and emollient.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Octyl Dimethyl PABA</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Sunscreen Actives</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Octyl Methoxycinnamate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Sunscreen Actives</string>
+			<key>desc</key>
+			<string>Sunscreen agent used to protect skin primarily from the sun’s UVB rays.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Octyl Palmitate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Emollients, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Used in cosmetics as a thickening agent and emollient.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Octyl Salicylate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Sunscreen Actives</string>
+			<key>desc</key>
+			<string>Sunscreen agent used to protect skin primarily from the sun’s UVB rays.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Octyl Stearate</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>5</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Emollients</string>
+			<key>desc</key>
+			<string> Used in cosmetics as a thickening agent and emollient.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Octyldodecyl Stearate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oleth-3</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oleth-10</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Surfactants, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>A form of fatty (non-irritating) oleyl alcohol that functions as an emulsifier and surfactant. Oleyl alcohol occurs naturally in fish oils, but a synthetic form of it is typically used in cosmetics.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oleyl Alcohol</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Surfactant, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Olive Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients, Plant Extracts, Antioxidants, Repairing</string>
+			<key>desc</key>
+			<string>Emollient plant oil similar to many other non-fragrant plant oils. Olive oil is beneficial for dry skin because of its fatty acid content, some of which comes from the emollient squalene. Olive oil contains essential fatty acids dry skin needs, including oleic, palmitic, and linoleic acids. It also contains phenolic compounds that provide antioxidant benefit.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oxybenzone</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Sunscreen Actives</string>
+			<key>desc</key>
+			<string>Oxybenzone (also known as benzophenone-3) is a sunscreen agent that protects primarily from the sun’s UVB rays, and some, but not all, UVA rays. As a group, the benzophenones are used not only for sun protection but also as photostabilizers in cosmetic products (they keep products from turning color or degrading in the presence of sunlight).</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 40 castor oil</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Plant Extracts, Emollients</string>
+			<key>desc</key>
+			<string>Emollient ingredient that is a mixture of polyethylene glycol (PEG) with castor oil.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 100 Distearate</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 100 Stearate</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Emollients, Surfactants</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 150 Distearate</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 16 Lanolin</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Humectant, Solvent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 20 Stearate</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Humectant, Surfactant</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 200 Dilaurate</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Humectant, Solvent</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 5 Soya Sterol</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 10 Soya Sterol</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 75 Lanolin</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PEG 8 Stearate</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Surfactant, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PG Caprylate/Caprate</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PG Dipelargonate</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PG Monostearate</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PPG 2 Myristyl Propionate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PPG 30 Cety Ester</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Palmitic Acid</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients, Repairing, Thickeners/Emulsifiers, Surfactants</string>
+			<key>desc</key>
+			<string>A fatty acid found naturally in skin and used as the basis for many palmitiate ingredients, such as isopropyl palmitate. Palmitic acid has many functions in cosmetics, from detergent cleansing agent to emollient. In a cleanser, it has the potential to be drying depending on what it is combined with and the cleanser&apos;s pH level. In moisturizers, palmitic acid is a very good emollient just as many other naturally-occuring fatty acids are.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Panthenol</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Vitamins</string>
+			<key>desc</key>
+			<string>Alcohol form of vitamin B.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Papain</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Exfoliant, Plant Extracts, Irritants</string>
+			<key>desc</key>
+			<string>Enzyme extracted from papaya. Applied topically, papain can cause severe irritation, itching, and allergic reactions.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Peanut Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Emollients</string>
+			<key>desc</key>
+			<string>Emollient plant oil similar to all other nonfragrant plant oils.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pentarythrital Tetra Capra/Caprylate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pentarythrital Tetra Isostearate</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Petrolatum</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients, Anti-Irritants</string>
+			<key>desc</key>
+			<string>Vaseline is pure petrolatum. For some unknown and unsubstantiated reason, petrolatum has attained a negative image in regard to skin care, despite solid research to the contrary. Topical application of petrolatum can help the skin’s outer layer recover from damage, reduce inflammation, and generally heal the skin.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PG Dicaprylate/Caprate</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PG Dipelargonate</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Polyethylene Glycol (PEG 400)</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Also listed as PEG on ingredient labels. PEGs have no known skin toxicity and can be used on skin with great results. The only negative research for this ingredient indicates that large quantities given orally to rats can cause tumors, but that is unrelated to topical application. In the minuscule amounts used in cosmetics, it helps keep products stable and performs functions similar to those of glycerin. Because polyethylene glycol can penetrate skin, it is also a vehicle that helps deliver other ingredients deeper into the skin.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Polyethylene Glycol 300</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Also listed as PEG on ingredient labels. PEGs have no known skin toxicity and can be used on skin with great results. The only negative research for this ingredient indicates that large quantities given orally to rats can cause tumors, but that is unrelated to topical application. In the minuscule amounts used in cosmetics, it helps keep products stable and performs functions similar to those of glycerin. Because polyethylene glycol can penetrate skin, it is also a vehicle that helps deliver other ingredients deeper into the skin.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Polyglyceryl-3-Diisostearate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Polysorbate 20</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Surfactants, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Large group of ingredients most often derived from lauric acid, which is derived from coconuts. Polysorbates function as emulsifiers and also have mild surfactant properties; Some polysorbates are derived from the food ingredient sorbitol, which occurs naturally in many fruits, while others have a fatty acid component. Polysorbates are considered non-toxic and safe as used in the concentrations found in cosmetic and food products.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Polysorbate 80</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Surfactants, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Large group of ingredients most often derived from lauric acid, which is derived from coconuts. Polysorbates function as emulsifiers and also have mild surfactant properties; Some polysorbates are derived from the food ingredient sorbitol, which occurs naturally in many fruits, while others have a fatty acid component. Polysorbates are considered non-toxic and safe as used in the concentrations found in cosmetic and food products.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Potassium Chloride</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Precipitated Sulfur</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Antibacterial, Anti-Acne, Irritants</string>
+			<key>desc</key>
+			<string>Antibacterial agent that can be a potent skin irritant and sensitizer. Sulfur also has a high pH, which can encourage the growth of bacteria on skin.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Propyl paraben</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Preservatives</string>
+			<key>desc</key>
+			<string>Among the most widely used group of preservatives in cosmetics. It is estimated that more than 70% of all cosmetic products contain some form of paraben. Parabens are believed to cause less irritation than some preservatives and offer broad antifungal and good antibacterial activity. Parabens have become a stigmatized group of preservatives due to their alleged relation to breast cancer. The potential link between paragons and cancer has been debunked by the FDA, Cancer Institute, and American Cancer Society.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Propylene Glycol</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Miscellaneous, Slip Agents</string>
+			<key>desc</key>
+			<string>Along with other glycols and glycerol, this is a humectant or humidifying and delivery ingredient used in cosmetics. In cosmetics, propylene glycol is used only in the smallest amounts to keep products from melting in high heat or freezing when it is cold. It also helps active ingredients penetrate the skin. In the minute amounts used in cosmetics, it is not a concern in the least.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Propylene Glycol Monostearate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Propylparaben</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Preservatives</string>
+			<key>desc</key>
+			<string>Among the most widely used group of preservatives in cosmetics. It is estimated that more than 70% of all cosmetic products contain some form of paraben. Parabens are believed to cause less irritation than some preservatives and offer broad antifungal and good antibacterial activity. Parabens have become a stigmatized group of preservatives due to their alleged relation to breast cancer. The potential link between paragons and cancer has been debunked by the FDA, Cancer Institute, and American Cancer Society.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Red Algae</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Antioxidants, Thickeners/Emulsifiers, Emollients, Plant Extracts</string>
+			<key>desc</key>
+			<string>Algae are very simple, chlorophyll-containing organisms in a family that includes more than 20,000 different known species. In cosmetics, algae act as thickening agents, water-binding agents, and antioxidants. Some algae are also potential skin irritants. The claims that algae can stop or eliminate wrinkling, heal skin, or provide other elaborate benefits are unsubstantiated. Algae isn’t a critical ingredient in skin-care products, but does have a positive function; it’s just not the miracle ingredient it’s often made out to be.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SD Alcohol 40</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Irritants</string>
+			<key>desc</key>
+			<string>The alcohols to be concerned about in skin-care products are ethanol, denatured alcohol, ethyl alcohol, methanol, benzyl alcohol, isopropyl alcohol, and SD alcohol, which can be extremely drying and irritating to skin, as well as capable of generating free radical damage and disrupting skin&apos;s protective barrier. There is actually a significant amount of research showing alcohol causes free-radical damage in skin even at low levels. When these ingredients are at the top of an ingredient list it is problematic for all skin types; when they are at the end of an ingredient list, there isn&apos;t enough concentration present to be considered a problem for skin.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Safflower Oil</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Antioxidants, Emollients</string>
+			<key>desc</key>
+			<string>Emollient plant oil similar to all nonfragrant plant oils. Safflower oil contains beneficial fatty acids that can help repair skin&apos;s barrier and are of particular value to those with dry skin.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sandalwood Seed Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sesame Oil</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Emollients</string>
+			<key>desc</key>
+			<string>Emollient oil similar to other nonfragrant plant oils.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shark Liver Oil</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Simethicone</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Slip Agents, Silicones</string>
+			<key>desc</key>
+			<string>Mixture of dimethicone with silica; related to silicones, but used as an antifoaming agent.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sodium Chloride</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Scrub Agents, Binding Agents</string>
+			<key>desc</key>
+			<string>More popularly known as common table salt. Used primarily as a binding agent in skin-care products and occasionally as an abrasive in scrub products.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sodium Hyaluronate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Repairing</string>
+			<key>desc</key>
+			<string>The salt form of skin-identical ingredient hyaluronic acid.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sodium Laureth Sulfate</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Surfactants</string>
+			<key>desc</key>
+			<string>Can be derived from coconut; it is used primarily as a detergent cleansing agent. It is considered gentle and effective as typically used to formulate cosmetic products (most typically facial or body cleansers and shampoos). Despite the name similarity, sodium laureth sulfate is NOT the same as sodium lauryl sulfate. It is a milder cleansing agent due to a higher amount and different chemical structure of the fatty alcohols that required to manufacture this cleansing agent.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sodium Lauryl Sulfate</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Surfactants, Irritants, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Sodium lauryl sulfate (SLS) is one of the most irritating cleansing agents used in skin-care products. In fact, it’s considered a standard comparison substance for measuring skin irritancy of other ingredients.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sodium PCA</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Repairing</string>
+			<key>desc</key>
+			<string>PCA (pyrrolidone carboxylic acid) is a natural component of skin that is also a very good water-binding agent.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Solulan 16</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sorbitan Laurate</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string> Used to thicken and stabilize cosmetic formulations.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sorbitan Oleate</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string> Used to thicken and stabilize cosmetic formulations.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sorbitan Sesquinoleate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string> Used to thicken and stabilize cosmetic formulations.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sorbitan Stearate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string> Used to thicken and stabilize cosmetic formulations.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sorbitol</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Slip Agents, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Can be created synthetically or derived from natural sources. Similar to glycerin, it is a humectant, thickening agent, and slip agent.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Soya Sterol</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients</string>
+			<key>desc</key>
+			<string>Form of phytosterol. There is no research showing soy sterols have any estrogenic or antioxidant benefit for skin.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Soybean Oil</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients, Humectant, Fragrance</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Squalane</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Repairing, Emollients, Antioxidants</string>
+			<key>desc</key>
+			<string>Oil derived from shark liver or from plants (usually olives) and sebum. It is a natural component of skin and is a good emollient that has antioxidant and immune-stimulating properties.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Steareth 10</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Surfactant, Thickener/Emulsifier</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Steareth 100</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Surfactant</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Steareth 2</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Surfactant, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Steareth 20</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Surfactant, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stearic Acid</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Emollients, Repairing, Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Fatty acid used as an emollient and as an agent to help keep other ingredients intact in a formulation.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stearic Acid Tea</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stearyl Alcohol</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Emollients</string>
+			<key>desc</key>
+			<string>Fatty alcohol used as an emollient and to help keep other ingredients intact in a formulation.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stearyl Heptanoate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Solvent, Moisturizer</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sterol Esters</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sulfated Castor Oil</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sulfated Jojoba Oil</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Emollients, Plant Extracts, Repairing</string>
+			<key>desc</key>
+			<string>Emollient oil similar to other nonfragrant plant oils.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sunflower Oil</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Emollients</string>
+			<key>desc</key>
+			<string> Non-volatile plant oil used as an emollient in cosmetics.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Syearyl Heptanoate</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Solvent, Moisturizer</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Talc</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Miscellaneous</string>
+			<key>desc</key>
+			<string>Naturally occurring silicate mineral (any group of substances containing negative ions composed of silicon and oxygen) of magnesium. Current, extensive research indicates there is no increased risk of lung cancer when using talc-based products or for those involved in the manufacture of talc product, although there is epidemiological evidence that frequent use of pure talc over the female genital area may increase the risk of ovarian cancer.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Titanium Dioxide</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Sunscreen Actives, Pigment</string>
+			<key>desc</key>
+			<string>Inert earth mineral used as a thickening, whitening, lubricating, and sunscreen ingredient in cosmetics. It protects skin from UVA and UVB radiation and is considered to have no risk of skin irritation. Because of its gentleness, titanium dioxide is an excellent sunscreen active for use on sensitive or rosacea-affected skin. It is also great for use around the eyes, as it is highly unlikely to cause stinging in this area.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tocopheryl Acetate </string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Antioxidants, Vitamins</string>
+			<key>desc</key>
+			<string>If there were an antioxidant hall of fame, vitamin E would likely be its inaugural member. It is fat-soluble and available in various forms, with the most biologically active being alpha-tocopherol.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tridectyl Neopentanoate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Unknown</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Triethanolamine</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Miscellaneous</string>
+			<key>desc</key>
+			<string>Used in cosmetics as a pH balancer. Like all amines, it has the potential for creating nitrosamines. There is controversy as to whether this poses a real problem for skin, given the low concentrations used in cosmetics and the theory that nitrosamines cannot penetrate skin. </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ultramarine Violet</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Pigment</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vitamin A Palmitate</string>
+			<key>com</key>
+			<integer>2</integer>
+			<key>irr</key>
+			<integer>1</integer>
+			<key>cat</key>
+			<string>Antioxidants, Vitamins</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wheat Germ Glyceride</string>
+			<key>com</key>
+			<integer>3</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Thickeners/Emulsifiers, Emollients</string>
+			<key>desc</key>
+			<string>Used as emollient and thickening agents in cosmetics.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wheat Germ Oil</string>
+			<key>com</key>
+			<integer>5</integer>
+			<key>irr</key>
+			<integer>2</integer>
+			<key>cat</key>
+			<string>Plant Extracts, Emollients</string>
+			<key>desc</key>
+			<string>Emollient plant oil similar to all nonfragrant plant oils.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Xylene</string>
+			<key>com</key>
+			<integer>4</integer>
+			<key>irr</key>
+			<integer>3</integer>
+			<key>cat</key>
+			<string>Solvent, Fragrance</string>
+			<key>desc</key>
+			<string>Not Available</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zinc Oxide</string>
+			<key>com</key>
+			<integer>1</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Antioxidants, Thickeners/Emulsifiers, Anti-Irritants, Pigment</string>
+			<key>desc</key>
+			<string>Inert earth mineral used as a thickening, whitening, lubricating, and sunscreen ingredient in cosmetics. Along with titanium dioxide, zinc oxide is considered to have no risk of skin irritation. It can also be an anti-irritant and potentially an antioxidant.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zinc Stearate</string>
+			<key>com</key>
+			<integer>0</integer>
+			<key>irr</key>
+			<integer>0</integer>
+			<key>cat</key>
+			<string>Slip Agents, Thickeners/Emulsifiers, Pigment</string>
+			<key>desc</key>
+			<string>The zinc salt of stearic acid. It has multiple functions in cosmetics, including serving as the basis for soap. Also functions as a coloring agent, slip agent, and thickening agent.</string>
+		</dict>
+	</array>
+</dict>
+</plist>
