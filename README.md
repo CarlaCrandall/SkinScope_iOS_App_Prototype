@@ -8,6 +8,6 @@ This app is a prototype. **[View the deck](http://www.slideshare.net/CarlaCranda
 
 ### Dependencies
 
-The SkinScope prototype uses the [Factual Global Products Database](http://www.factual.com/products/cpg) and [iOS SDK](https://github.com/Factual/factual-ios-sdk). To run the app you'll need to [request an API key](https://www.factual.com/api-keys/request) and add it to line 27 of *SkinScopeAppDelegate.m*.
+1. The SkinScope prototype uses the [Factual Global Products Database](http://www.factual.com/products/cpg) and [iOS SDK](https://github.com/Factual/factual-ios-sdk). To run the app you'll need to [request an API key](https://www.factual.com/api-keys/request) and add it to line 27 of *SkinScopeAppDelegate.m*.
 
-SkinScope also uses the [ZBar iPhone SDK](http://zbar.sourceforge.net/iphone/sdkdoc/).
+2. SkinScope also uses the [ZBar iPhone SDK](http://zbar.sourceforge.net/iphone/sdkdoc/).
